@@ -13,6 +13,8 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0",
-    "qrcode": "^1.5.4"
+    "qrcode": "^1.5.4",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   }
 }
